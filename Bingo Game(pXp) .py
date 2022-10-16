@@ -1,4 +1,4 @@
-# PxP Bingo Game
+# PxP Bingo Game (There shouldn't be overlapping numbers. All numbers must be written only once.)
 
 bingolist = []
 p=int(input())
